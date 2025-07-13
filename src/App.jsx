@@ -94,11 +94,11 @@ function App() {
   </p>
 
   {/* Grid untuk Gambar */}
-<div className="projectbox grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-10 sm:gap-4">
+<div className="projectbox grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 mt-10 sm:gap-4">
   {listProyek.map(proyek => (
     <div key={proyek.id} className="p-4 bg-zinc-800 rounded-lg overflow-hidden shadow-md flex flex-col" data-aos="fade-up" data-aos-duration ="1000" data-aos-delay ={proyek.dad}>
       {proyek.gambar && (
-        <img src={proyek.gambar} alt="Project Image" className="w-full object-cover h-48" />
+        <img src={proyek.gambar} alt="Project Image" className="w-full object-contain max-h-72" />
       )}
       {/* Kontainer isi konten */}
       <div className="flex flex-col justify-between flex-1 p-4">
@@ -136,7 +136,7 @@ function App() {
       <video
         src={Project.video}
         controls
-        className="w-full object-cover h-48 " data-aos="fade-up" data-aos-duration ="1000" data-aos-delay ={Project.dad}
+        className="w-full object-contain max-h-72 " data-aos="fade-up" data-aos-duration ="1000" data-aos-delay ={Project.dad}
       />
     )}
     <div className="flex flex-col justify-between flex-1 p-4">
