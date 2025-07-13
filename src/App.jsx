@@ -9,7 +9,7 @@ function App() {
       <div className="animate__animated animate__fadeInUp animate__delay-3s">
         <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-3xl">
           <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" loading="lazy" />
-          <q>Masya Allah Tabarakallah</q>
+          <q className="text-sm ">Assalamualaikum (Peace Be Upon You) 🙏</q>
         </div>
         <h1 className="text-4xl/tight font-bold mb-6">Hi Dear!👋 I am Dana</h1>
         <p className="text-base/loose mb-6 opacity-50 text-justify">
@@ -57,7 +57,7 @@ function App() {
               <h1 className="text-4xl mb-1 justify-center flex">
                 2 <span className="text-violet-500">+</span>
               </h1>
-              <p>Tahun Pengalaman</p>
+              <p>Years of Experience</p>
             </div>
           </div>
           </div>
