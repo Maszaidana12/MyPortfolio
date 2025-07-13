@@ -45,7 +45,7 @@ function App() {
           However, I currently choose to focus more on front-end development and am actively deepening my understanding of React, with plans to learn 
           other frameworks like Vue through self-study.</p>
           <div className=" flex items-center justify-between flex-col sm:flex-row gap-6 sm:gap-0">
-          <a href="#" className="bg-yellow-600 p-4 rounded-2xl border border-white mb-1 hover:bg-yellow-500 sm:hidden">Certificate <i className="ri-arrow-right-line ri-lg "></i></a>
+          <a href="https://drive.google.com/drive/u/0/folders/1eM3I31nvJDIwniUnQJNHZUNsMUxVEn4c" className="bg-yellow-600 p-4 rounded-2xl border border-white mb-1 hover:bg-yellow-500 sm:hidden">Certificate <i className="ri-arrow-right-line ri-lg "></i></a>
           <div className="flex items-center gap-6">
             <div>
               <h1 className="text-4xl mb-1 flex justify-center text-green-400">
