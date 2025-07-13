@@ -16,7 +16,7 @@ const Footer = () => {
           <a href="https://www.instagram.com/maszaidana" aria-label="Instagram">
             <i className="ri-instagram-fill ri-2x text-white hover:text-gray-300 transition" />
           </a>
-          <a href="bit.ly/3R6UCeq" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/mas-ahmad-zaidi-wardana-955a6a2a7/" aria-label="LinkedIn">
             <i className="ri-linkedin-fill ri-2x text-white hover:text-gray-300 transition" />
           </a>
           <a href="http://bit.ly/40MppCs" aria-label="WhatsApp">

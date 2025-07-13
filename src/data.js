@@ -183,6 +183,6 @@ export const Projectmorph= [
     desk: "Morph transitions for a more dynamic and engaging presentation",
     tools: ["PowerPoint", "Canva"],
     dad: "500",
-    link: "drive.google.com/drive/folders/188oaZSd8Er4VZcD3s845iMt8eLqOmrAt?usp=sharing"
+    link: "https://drive.google.com/drive/u/0/folders/188oaZSd8Er4VZcD3s845iMt8eLqOmrAt"
   },
 ];
