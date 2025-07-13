@@ -156,8 +156,8 @@ export const listProyek= [
   {
     id: 2,
     gambar: Project2,
-    nama: "Islamic Organization Website of Politeknik Negeri Banyuwangi",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+    nama: "UKM IMAM Poliwangi Website Design",
+    desk: "Islamic Organization Website of Politeknik Negeri Banyuwangi",
     tools: ["HTML", "CSS"],
     dad: "300",
     link: "https://github.com/Maszaidana12/IMAM-PAGE"
