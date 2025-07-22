@@ -18,7 +18,7 @@ function App() {
           as designing pamphlets and posters.
         </p>
         <div className="flex items-center sm:gap-4 gap-2">
-          <a href="https://drive.google.com/file/d/1CjTPY3FucUxt1QXXYHMkvanr076FUisI/view?usp=drive_link" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download CV <i className="ri-download-2-line ri-lg"></i></a>
+          <a href="https://drive.google.com/drive/folders/1iRtL7XSsSdyH6PPERdygPObdzoWVlqc5?usp=drive_link" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download CV <i className="ri-download-2-line ri-lg"></i></a>
            <a href="#project" className="bg-green-600 p-4 rounded-2xl hover:bg-green-400">My Project <i className="ri-arrow-right-line ri-lg"></i></a>
         </div>
       </div>
